@@ -55,5 +55,5 @@ It allows users to:
 
 ## Live Project Link
 
-👉 Click here to open the App (http://localhost:8506/)
+👉 Click here to open the App (https://ai-powered-multi-language-translator-mmdu7s3lxgxlyuobhexjjr.streamlit.app/)
 
