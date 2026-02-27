@@ -53,5 +53,7 @@ It allows users to:
 1. pip install -r requirements.txt
 2. streamlit run app.py
 
-
+## Live Project Link
+Aap niche diye gaye link par click karke app ko test kar sakte hain:
+👉 Click here to open the App (https://multilanguagetranslator-gqtcybowrgzqtwtlkdvtps.streamlit.app)
 
