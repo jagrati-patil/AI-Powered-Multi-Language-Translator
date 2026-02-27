@@ -54,6 +54,6 @@ It allows users to:
 2. streamlit run app.py
 
 ## Live Project Link
-Aap niche diye gaye link par click karke app ko test kar sakte hain:
-👉 Click here to open the App (https://multilanguagetranslator-gqtcybowrgzqtwtlkdvtps.streamlit.app)
+
+👉 Click here to open the App (http://localhost:8506/)
 
