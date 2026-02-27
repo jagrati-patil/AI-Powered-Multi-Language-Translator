@@ -18,7 +18,7 @@ It allows users to:
 - **Text Translation** – Type text in the source language and get instant translation.
 - **Speech-to-Text + Translation** – Speak into the microphone, get recognized, and translate the result.
 - **Audio Output** – Listen to translations via Google Text-to-Speech.
-- **Multi-Language Support** – 15+ languages including English, Hindi, Spanish, French, Arabic, Japanese, Chinese, and more.
+- **Multi-Language Support** – 50+ languages including English, Hindi, Spanish, French, Arabic, Japanese, Chinese, and more.
 - **User-Friendly Interface** – Simple dropdowns for language selection, real-time feedback, and error handling.
 
 ---
